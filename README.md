@@ -5,9 +5,17 @@
   - [x] [Iterator](./Iterator)
   - [x] [Adapter(Wrapper)](./Adapter)
 - [ ] サブクラスにまかせる
+  - [ ] Template Method
+  - [ ] Factory Method
 - [ ] インスタンスを作る
+  - [ ] Singleton
+  - [ ] Prototype
+  - [ ] Builder
+  - [ ] Abstract Factory
 - [ ] 分けて考える
+  - [ ] Bridge
 - [ ] 同一視
+  - [ ] Strategy
 - [ ] 構造を渡り歩く
 - [ ] シンプルにする
 - [ ] 状態を管理する
