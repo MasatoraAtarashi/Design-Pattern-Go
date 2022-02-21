@@ -14,9 +14,23 @@
   - [ ] Abstract Factory
 - [ ] 分けて考える
   - [ ] Bridge
-- [ ] 同一視
   - [ ] Strategy
+- [ ] 同一視
+  - [ ] Composite
+  - [ ] Decorator
 - [ ] 構造を渡り歩く
+  - [ ] Visitor
+  - [ ] Chain of Responsibility
 - [ ] シンプルにする
+  - [ ] Facade
+  - [ ] Mediator
 - [ ] 状態を管理する
+  - [ ] Observer
+  - [ ] Memento
+  - [ ] State
 - [ ] 無駄をなくす
+  - [ ] Flyweight
+  - [ ] Proxy
+- [ ] クラスで表現する
+  - [ ] Command
+  - [ ] Interpreter
