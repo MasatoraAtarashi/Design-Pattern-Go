@@ -13,7 +13,7 @@
   - [ ] Builder
   - [ ] Abstract Factory
 - [ ] 分けて考える
-  - [ ] Bridge
+  - [x] [Bridge](./Bridge) もっと良い書き方がありそう。
   - [ ] Strategy
 - [ ] 同一視
   - [ ] Composite
