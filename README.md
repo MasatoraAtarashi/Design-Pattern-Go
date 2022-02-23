@@ -12,9 +12,9 @@
   - [ ] Prototype
   - [ ] Builder
   - [ ] Abstract Factory
-- [ ] 分けて考える
+- [x] 分けて考える
   - [x] [Bridge](./Bridge) もっと良い書き方がありそう。
-  - [ ] Strategy
+  - [x] [Strategy](./Strategy)
 - [ ] 同一視
   - [ ] Composite
   - [ ] Decorator
