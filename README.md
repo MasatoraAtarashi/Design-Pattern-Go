@@ -5,7 +5,7 @@
   - [x] [Iterator](./Iterator)
   - [x] [Adapter(Wrapper)](./Adapter)
 - [ ] サブクラスにまかせる
-  - [ ] Template Method
+  - [x] [Template Method](./Template-Method) もっと良い実現方法がある気がする？
   - [ ] Factory Method
 - [ ] インスタンスを作る
   - [x] [Singleton](./Singleton) 疑問あり
@@ -13,7 +13,7 @@
   - [ ] Builder
   - [ ] Abstract Factory
 - [x] 分けて考える
-  - [x] [Bridge](./Bridge) もっと良い書き方がありそう。
+  - [x] [Bridge](./Bridge) もっと良い書き方がありそう
   - [x] [Strategy](./Strategy)
 - [ ] 同一視
   - [ ] Composite
