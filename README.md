@@ -8,7 +8,7 @@
   - [ ] Template Method
   - [ ] Factory Method
 - [ ] インスタンスを作る
-  - [x] [Singleton](./Singleton)
+  - [x] [Singleton](./Singleton) 疑問あり
   - [ ] Prototype
   - [ ] Builder
   - [ ] Abstract Factory
