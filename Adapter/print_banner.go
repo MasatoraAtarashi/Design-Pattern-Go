@@ -9,9 +9,9 @@ func NewPrintBanner(value string) PrintBanner {
 }
 
 func (p PrintBanner) PrintWeak() {
-	p.Banner.ShowWithParen()
+	p.ShowWithParen()
 }
 
 func (p PrintBanner) PrintStrong() {
-	p.Banner.ShowWithAster()
+	p.ShowWithAster()
 }
