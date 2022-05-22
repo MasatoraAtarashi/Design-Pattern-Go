@@ -22,7 +22,7 @@
   - [ ] Visitor
   - [ ] Chain of Responsibility
 - [ ] シンプルにする
-  - [ ] Facade
+  - [x] [Facade](./Facade)
   - [ ] Mediator
 - [ ] 状態を管理する
   - [ ] Observer

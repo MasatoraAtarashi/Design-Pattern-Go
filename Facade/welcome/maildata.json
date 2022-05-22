@@ -1,0 +1,18 @@
+[
+  {
+    "email": "hyuki@example.com",
+    "user_name": "Hiroshi Yuki"
+  },
+  {
+    "email": "hanako@example.com",
+    "user_name": "Hanako Sato"
+  },
+  {
+    "email": "tomura@example.com",
+    "user_name": "Tomura"
+  },
+  {
+    "email": "mamoru@example.com",
+    "user_name": "Mamoru Takahashi"
+  }
+]
