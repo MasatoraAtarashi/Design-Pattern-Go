@@ -5,18 +5,18 @@
   - [x] [Iterator](./Iterator)
   - [x] [Adapter(Wrapper)](./Adapter)
 - [ ] サブクラスにまかせる
-  - [x] [Template Method](./Template-Method) もっと良い実現方法がある気がする？
+  - [x] [Template Method](./Template-Method) もっと良い実現方法がある気がする？Goだと継承がないので埋め込みでそれっぽい実装をするしかなさそう？
   - [ ] Factory Method
 - [ ] インスタンスを作る
   - [x] [Singleton](./Singleton) 疑問あり
   - [ ] Prototype
   - [ ] Builder
-  - [ ] Abstract Factory
+  - [ ] Abstract Factory 一番むずいらしい
 - [x] 分けて考える
   - [x] [Bridge](./Bridge) もっと良い書き方がありそう
   - [x] [Strategy](./Strategy)
 - [ ] 同一視
-  - [ ] Composite
+  - [x] [Composite](./Composite)
   - [ ] Decorator
 - [ ] 構造を渡り歩く
   - [ ] Visitor
